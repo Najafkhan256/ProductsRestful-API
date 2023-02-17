@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Iphone XS",
+    "price": 156,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "Iphone XR",
+    "price": 126,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "Redmi Note 10",
+    "price": 126,
+    "company": "mi"
+  },
+  {
+    "name": "watch 1",
+    "price": 116,
+    "company": "apple"
+  },
+  {
+    "name": "watch 3",
+    "price": 145,
+    "company": "mi"
+  },
+  {
+    "name": "Air Pods Pro",
+    "price": 256,
+    "company": "apple"
+  },
+  {
+    "name": "Dell Precission",
+    "price": 356,
+    "company": "dell"
+  },
+  {
+    "name": "Galaxy s7",
+    "price": 350,
+    "company": "samsung"
+  },
+  {
+    "name": "Galaxy note 10",
+    "price": 444,
+    "company": "samsung"
+  }
+]
