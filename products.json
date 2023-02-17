@@ -2,13 +2,13 @@
   {
     "name": "Iphone XS",
     "price": 156,
-    "feature": true,
+    "featured": true,
     "company": "apple"
   },
   {
     "name": "Iphone XR",
     "price": 126,
-    "feature": true,
+    "featured": true,
     "company": "apple"
   },
   {
